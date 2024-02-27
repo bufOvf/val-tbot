@@ -12,6 +12,7 @@
 env/
 .python-version
 .vscode/
+test.py
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
